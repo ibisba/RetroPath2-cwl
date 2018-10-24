@@ -1,5 +1,9 @@
 # RetroPath2-cwl -- RetroPath2.0 IBISBA Node
 
+[![Build Status](https://travis-ci.org/ibisba/RetroPath2-cwl.svg?branch=master)](https://travis-ci.org/ibisba/RetroPath2-cwl)
+[![](https://images.microbadger.com/badges/version/ibisba/retropath2.svg)](https://hub.docker.com/r/ibisba/retropath2 "ibisba/retropath2")
+[![](https://images.microbadger.com/badges/image/ibisba/retropath2.svg)](https://microbadger.com/images/ibisba/retropath2 "Get your own image badge on microbadger.com")
+
 * Docker image: tbd
 * Base images: tbd
 * License: tbd
