@@ -6,7 +6,7 @@ baseCommand:
 arguments: ["output.dir=$(runtime.outdir)"]
 hints:
   DockerRequirement:
-    dockerPull: ibisba/retro-path-2:test12
+    dockerPull: ibisba/retropath2:latest
 inputs:
   input.rulesfile:
     type: File
