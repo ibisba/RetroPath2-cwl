@@ -1,6 +1,0 @@
-input.sourcefile:
-  class: File
-  path: /Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/source.csv
-input.rulesfile:
-  class: File
-  path: /Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/rules.csv

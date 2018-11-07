@@ -17,8 +17,8 @@ services:
   - docker
 
 script:
-  - docker build -t ibisba/retro-path-2 .
   - test/test.sh
+  - docker build -t ibisba/retropath2 .
 
 notifications:
   email: false
