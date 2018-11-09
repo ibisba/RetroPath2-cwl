@@ -34,7 +34,7 @@
 <entry key="node-feature-name" type="xstring" value="KNIME Python Integration (deprecated)"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.python.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.1.v201808311614"/>
+<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051558"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Python Script (2⇒1) (deprecated)"/>
 <entry key="hasContent" type="xboolean" value="false"/>

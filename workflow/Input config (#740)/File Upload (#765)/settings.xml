@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
 <entry key="node_file" type="xstring" value="settings.xml"/>
-<config key="flow_stack"/>
+<config key="flow_stack">
+<config key="Variable_0">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="sourcefile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/source.csv"/>
+</config>
+<config key="Variable_1">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="sourcefile (URL)"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="file:/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/source.csv"/>
+</config>
+</config>
 <config key="internal_node_subsettings">
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
@@ -50,10 +63,6 @@
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="CONFIGURED"/>
-<config key="nodecontainer_message">
-<entry key="type" type="xstring" value="WARNING"/>
-<entry key="message" type="xstring" value="No such file: &quot;/Applications/KNIME 3.6.1.app/Contents/MacOS/source.csv&quot;"/>
-</config>
 <entry key="factory" type="xstring" value="org.knime.js.base.node.quickform.input.fileupload.FileUploadQuickFormNodeFactory"/>
 <entry key="node-name" type="xstring" value="File Upload"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Quick Form Nodes"/>
@@ -63,7 +72,7 @@
 <entry key="node-feature-name" type="xstring" value="KNIME Quick Forms"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.quickforms.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.1.v201808311614"/>
+<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051557"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="File Upload"/>
 <entry key="hasContent" type="xboolean" value="false"/>

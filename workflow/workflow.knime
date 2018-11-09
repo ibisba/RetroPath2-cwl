@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-<entry key="created_by" type="xstring" value="3.6.1.v201809030900"/>
+<entry key="created_by" type="xstring" value="3.6.2.v201811051556"/>
 <entry key="created_by_nightly" type="xboolean" value="false"/>
 <entry key="version" type="xstring" value="3.6.0Pre"/>
 <entry key="name" type="xstring" isnull="true" value=""/>
@@ -8,7 +8,7 @@
 <entry key="authored-by" type="xstring" value="thomas"/>
 <entry key="authored-when" type="xstring" value="2016-12-22 17:19:53 +0100"/>
 <entry key="lastEdited-by" type="xstring" value="helfrich"/>
-<entry key="lastEdited-when" type="xstring" value="2018-09-26 13:51:17 +0200"/>
+<entry key="lastEdited-when" type="xstring" value="2018-11-09 14:01:48 +0100"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
@@ -19,114 +19,114 @@
 <entry key="value" type="xint" value="100"/>
 </config>
 <config key="Var_1">
-<entry key="name" type="xstring" value="input.max-steps"/>
-<entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="1"/>
-</config>
-<config key="Var_2">
-<entry key="name" type="xstring" value="input.rulesfile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="rules.csv"/>
-</config>
-<config key="Var_3">
 <entry key="name" type="xstring" value="input.dmin"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="0"/>
 </config>
-<config key="Var_4">
+<config key="Var_2">
 <entry key="name" type="xstring" value="input.dmax"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Var_5">
-<entry key="name" type="xstring" value="input.sinkfile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="//"/>
-</config>
-<config key="Var_6">
-<entry key="name" type="xstring" value="input.sourcefile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="source.csv"/>
-</config>
-<config key="Var_7">
+<config key="Var_3">
 <entry key="name" type="xstring" value="input.mwmax-source"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Var_8">
+<config key="Var_4">
 <entry key="name" type="xstring" value="input.stereo_mode"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="Strip all stereo"/>
 </config>
-<config key="Var_9">
+<config key="Var_5">
 <entry key="name" type="xstring" value="input.std_mode"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="H added + Aromatized"/>
 </config>
-<config key="Var_10">
+<config key="Var_6">
 <entry key="name" type="xstring" value="output.solutionfile"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="results.csv"/>
 </config>
-<config key="Var_11">
-<entry key="name" type="xstring" value="output.dir"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="."/>
-</config>
-<config key="Var_12">
+<config key="Var_7">
 <entry key="name" type="xstring" value="input.mwmax-cof"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Var_13">
+<config key="Var_8">
 <entry key="name" type="xstring" value="input.cofsfile"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="//"/>
 </config>
-<config key="Var_14">
+<config key="Var_9">
 <entry key="name" type="xstring" value="dev.prefilter-rm-brakets"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1"/>
 </config>
-<config key="Var_15">
+<config key="Var_10">
 <entry key="name" type="xstring" value="dev.use-py-fire"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="0"/>
 </config>
-<config key="Var_16">
+<config key="Var_11">
 <entry key="name" type="xstring" value="dev.py-fire-timeout"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="300"/>
 </config>
-<config key="Var_17">
+<config key="Var_12">
 <entry key="name" type="xstring" value="dev.source-chunk-size"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1"/>
 </config>
-<config key="Var_18">
+<config key="Var_13">
 <entry key="name" type="xstring" value="output.sourceinsinkfile"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="source-in-sink.csv"/>
 </config>
-<config key="Var_19">
+<config key="Var_14">
 <entry key="name" type="xstring" value="dev.py-fire-procs"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="4"/>
 </config>
-<config key="Var_20">
+<config key="Var_15">
 <entry key="name" type="xstring" value="dev.scope-filter-bootstraps"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1"/>
 </config>
-<config key="Var_21">
+<config key="Var_16">
 <entry key="name" type="xstring" value="dev.scope-filter-stepback"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1"/>
 </config>
-<config key="Var_22">
+<config key="Var_17">
 <entry key="name" type="xstring" value="dev.scope-filter-samestep"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1"/>
+</config>
+<config key="Var_18">
+<entry key="name" type="xstring" value="output.dir"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/res4"/>
+</config>
+<config key="Var_19">
+<entry key="name" type="xstring" value="input.max-steps"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+<config key="Var_20">
+<entry key="name" type="xstring" value="input.rulesfile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/rules.csv"/>
+</config>
+<config key="Var_21">
+<entry key="name" type="xstring" value="input.sinkfile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/sink.csv"/>
+</config>
+<config key="Var_22">
+<entry key="name" type="xstring" value="input.sourcefile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/source.csv"/>
 </config>
 </config>
 <config key="workflow_credentials"/>
@@ -349,20 +349,6 @@
 <entry key="borderSize" type="xint" value="5"/>
 <entry key="borderColor" type="xint" value="15658732"/>
 <entry key="defFontSize" type="xint" value="11"/>
-<entry key="annotation-version" type="xint" value="20151123"/>
-<config key="styles"/>
-</config>
-<config key="annotation_2">
-<entry key="text" type="xstring" value="Double-click top left corner to edit."/>
-<entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="769"/>
-<entry key="y-coordinate" type="xint" value="360"/>
-<entry key="width" type="xint" value="250"/>
-<entry key="height" type="xint" value="140"/>
-<entry key="alignment" type="xstring" value="LEFT"/>
-<entry key="borderSize" type="xint" value="10"/>
-<entry key="borderColor" type="xint" value="16766976"/>
-<entry key="defFontSize" type="xint" value="-1"/>
 <entry key="annotation-version" type="xint" value="20151123"/>
 <config key="styles"/>
 </config>

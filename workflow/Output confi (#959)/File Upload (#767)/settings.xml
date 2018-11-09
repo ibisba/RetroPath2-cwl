@@ -6,13 +6,13 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="output_dir"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="."/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/res4"/>
 </config>
 <config key="Variable_1">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="output_dir (URL)"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="file:/Applications/KNIME%203.6.1.app/Contents/MacOS/./"/>
+<entry key="value" type="xstring" value="file:/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/res4/"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -71,7 +71,7 @@
 <entry key="node-feature-name" type="xstring" value="KNIME Quick Forms"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.quickforms.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.1.v201808311614"/>
+<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051557"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="File Upload"/>
 <entry key="hasContent" type="xboolean" value="false"/>

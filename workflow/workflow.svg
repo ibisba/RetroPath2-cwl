@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg stroke-dasharray="none" shape-rendering="auto"
      xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;"
-     width="999" text-rendering="auto" fill-opacity="1"
+     width="992" text-rendering="auto" fill-opacity="1"
      contentScriptType="text/ecmascript" color-interpolation="auto"
      color-rendering="auto" preserveAspectRatio="xMidYMid meet" font-size="12"
      fill="black" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
@@ -87,49 +87,40 @@
                 <path d="M4 984 L677 984 L677 1718 L4 1718 L4 984 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath25">
-                <path d="M748 479 L1000 479 L1000 621 L748 621 L748 479 Z"/>
-            </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath26">
-                <path d="M758 489 L952 489 L952 503 L758 503 L758 489 Z"/>
-            </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
                 <path d="M764 42 L877 42 L877 57 L764 57 L764 42 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath26">
                 <path d="M-1 -1 L33 -1 L33 33 L-1 33 L-1 -1 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath29">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
                 <path d="M-1 -1 L17 -1 L17 17 L-1 17 L-1 -1 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
                 <path d="M-1 -1 L33 -1 L33 13 L-1 13 L-1 -1 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath29">
                 <path d="M829 73 L877 73 L877 84 L829 84 L829 73 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32">
-                <path d="M-2 4 L46 4 L46 15 L-2 15 L-2 4 Z"/>
-            </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
                 <path d="M799 149 L841 149 L841 164 L799 164 L799 149 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
                 <path d="M780 162 L860 162 L860 177 L780 177 L780 162 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath35">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32">
                 <path d="M828 193 L860 193 L860 204 L828 204 L828 193 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
                 <path d="M925 102 L955 102 L955 117 L925 117 L925 102 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath37">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34">
                 <path d="M914 123 L932 123 L932 134 L914 134 L914 123 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath38">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath35">
                 <path d="M914 142 L932 142 L932 153 L914 153 L914 142 Z"/>
             </clipPath>
-            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath39">
-                <path d="M-1 -1 L1000 -1 L1000 2346 L-1 2346 L-1 -1 Z"/>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36">
+                <path d="M-1 -1 L1630 -1 L1630 2346 L-1 2346 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g font-size="11" fill="white" stroke-linejoin="round" stroke="white"
@@ -353,21 +344,14 @@
            stroke-linecap="butt" stroke="rgb(238,238,236)">
             <rect x="2" y="982" clip-path="url(#clipPath23)" fill="none"
                   width="676" height="1240"/>
-            <rect x="749" y="480" clip-path="url(#clipPath25)" fill="white"
-                  width="250" height="140" stroke="none"/>
-            <text x="759" y="500" clip-path="url(#clipPath26)" fill="black"
-                  font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Double-click top left corner to edit.</text><rect x="754"
-                  y="485" clip-path="url(#clipPath25)" fill="none" width="240"
-                  height="130" stroke="rgb(255,216,0)" stroke-width="10"/>
         </g>
-        <g stroke-width="10" font-size="11" font-family="&apos;Arial&apos;"
+        <g stroke-width="5" font-size="11" font-family="&apos;Arial&apos;"
            font-weight="bold" stroke-linecap="butt">
             <text xml:space="preserve" x="765" y="53"
-                  clip-path="url(#clipPath27)" stroke="none">Input configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                  clip-path="url(#clipPath25)" stroke="none">Input configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,804,63)" width="32"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
                    font-weight="normal" height="32" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
@@ -376,7 +360,7 @@ MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,812,71)" width="16"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
                    font-weight="normal" height="16" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
@@ -387,7 +371,7 @@ N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,804,102)" width="32"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
                    font-weight="normal" height="12" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
 UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
@@ -403,30 +387,16 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
         </g>
         <g stroke-linecap="butt" font-size="11" fill="rgb(255,75,75)"
            text-rendering="optimizeLegibility" font-family="&apos;Arial&apos;"
-           stroke="rgb(255,75,75)" stroke-width="10">
-            <circle r="4" clip-path="url(#clipPath31)" cx="840" cy="78"
+           stroke="rgb(255,75,75)" stroke-width="5">
+            <circle r="4" clip-path="url(#clipPath29)" cx="840" cy="78"
                     stroke="none"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,831,69)" width="18"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath32)" preserveAspectRatio="none"
-                   height="18" x="0" y="0"
-                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABbElEQVR42mO8bWmz
-iYmVheXr+w8JepcvvGIgAVw1NJbk5ONb+fvnTwYmRmYmMS4BQU8+MdFVl3QNxEgx
-hEdYaCMnv4AtMwvLf+Z0YZGtzKzMduzcPFYsbKxmSTx826a/evGVGEPYuHhMf379
-cvDLu/dhzNNePP+Syi+4hVjD0A359Op1GChImEGSxBqGyxCQHDNMESHD8BkCAozE
-OJ2ZhZkZnyEoLsLlMiYmRmtWDo54Dh4+Y1yGYDUI2TCge52A0WvGys4h+f3jh2Of
-37wNwZXWmPBFM9BLf+AKWVh+41VLKIpBLvnz6+cbDl4+C3xJg5lQYIO88/f3r+WE
-kgYzMemEmHTGTExiIyadgQ0CZlZdPlGRVUBDTPBFMbphrGysFqkCgjtA4swgQwSl
-JBezcnIZ4jMEm2Fs3DyWIBrML9XU2gQ03ZgYQ7AaBgyKf3//WDHnyEj7//n16+6X
-t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <text x="800" y="160" clip-path="url(#clipPath33)" fill="black"
+            <text x="800" y="160" clip-path="url(#clipPath30)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Output</text><text x="781"
-                  y="173" clip-path="url(#clipPath34)" fill="black"
+                  y="173" clip-path="url(#clipPath31)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,804,183)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
                    height="32" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
@@ -435,7 +405,7 @@ MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,812,191)" width="16"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
                    height="16" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
@@ -446,7 +416,7 @@ N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,804,222)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
                    height="12" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
 UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
@@ -459,13 +429,13 @@ wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
 x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
 jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
 I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath35)" cx="840" cy="198"
+            <circle r="4" clip-path="url(#clipPath32)" cx="840" cy="198"
                     stroke="none"/>
-            <text x="926" y="113" clip-path="url(#clipPath36)" fill="black"
+            <text x="926" y="113" clip-path="url(#clipPath33)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Core</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,924,123)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
                    height="32" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
@@ -474,7 +444,7 @@ MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,932,131)" width="16"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
                    height="16" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
@@ -485,7 +455,7 @@ N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,924,162)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
                    height="12" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAAB5ElEQVR42sVUPVPb
 QBB9wpKsSMY28QibMTMUfPyY5A+YjoaUrjL5Ie5JTQkF6fxDwKYCD9gaW5YMsj5s
@@ -499,14 +469,14 @@ yZqnPQvcV6DvMrfNzBiJOIqUnZSA/wUhINSN3Kp3fR9RvSEKLg/ct1wuYY2szBj2
 tP5uE1arhSivDbkgqnJW7bZtv9mGPr2yd32T2YbxWqbl14mUzIKQ2mb07StGbBBR
 UEwtl1WYjMhx3cTeQhCGCCYhJhM7dxqyL2i/ivgFIo4VJbcr3nMU/wTFM9tBmpCP
 WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath37)" cx="919" cy="128"
+            <circle r="4" clip-path="url(#clipPath34)" cx="919" cy="128"
                     stroke="none"/>
-            <circle r="4" clip-path="url(#clipPath38)" cx="919" cy="147"
+            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="147"
                     stroke="none"/>
             <rect x="0" y="0" clip-path="url(#clipPath1)" fill="white"
                   width="661" height="941" stroke="none"/>
         </g>
-        <g text-rendering="optimizeLegibility" stroke-width="10" font-size="11"
+        <g text-rendering="optimizeLegibility" stroke-width="5" font-size="11"
            font-weight="bold" stroke-linecap="butt">
             <text xml:space="preserve" x="0" y="11" clip-path="url(#clipPath2)"
                   stroke="none">RetroPath2.0</text><text x="0" y="35"
@@ -704,29 +674,17 @@ WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   font-weight="normal" xml:space="preserve">One can disable this behavour using the &quot;dev.prefilter-rm-brakets&quot; global workflow variable.</text><text x="5"
                   y="1703" clip-path="url(#clipPath24)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">However, we strongly recommend to not change the value unless you (really) know what you are doing.</text>
-        </g><g stroke-linecap="butt" font-size="11" fill="rgb(238,238,236)"
-           text-rendering="optimizeLegibility" stroke="rgb(238,238,236)"
-           stroke-width="5">
-            <rect x="2" y="982" clip-path="url(#clipPath23)" fill="none"
-                  width="676" height="1240"/>
-            <rect x="749" y="480" clip-path="url(#clipPath25)" fill="white"
-                  width="250" height="140" stroke="none"/>
-            <text x="759" y="500" clip-path="url(#clipPath26)" fill="black"
+                  font-weight="normal" xml:space="preserve">However, we strongly recommend to not change the value unless you (really) know what you are doing.</text><rect x="2"
+                  y="982" clip-path="url(#clipPath23)" fill="none" width="676"
+                  height="1240" stroke="rgb(238,238,236)"/>
+            <text x="765" y="53" clip-path="url(#clipPath25)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Double-click top left corner to edit.</text><rect x="754"
-                  y="485" clip-path="url(#clipPath25)" fill="none" width="240"
-                  height="130" stroke="rgb(255,216,0)" stroke-width="10"/>
-        </g>
-        <g stroke-linecap="butt" font-size="11"
-           text-rendering="optimizeLegibility" font-family="&apos;Arial&apos;"
-           font-weight="bold" stroke-width="10">
-            <text xml:space="preserve" x="765" y="53"
-                  clip-path="url(#clipPath27)" stroke="none">Input configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xml:space="preserve">Input configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,804,63)" width="32"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
-                   font-weight="normal" height="32" x="0" y="0"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
+                   font-weight="normal" height="32"
+                   font-family="&apos;Arial&apos;" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
 0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
@@ -734,8 +692,9 @@ MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,812,71)" width="16"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
-                   font-weight="normal" height="16" x="0" y="0"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
+                   font-weight="normal" height="16"
+                   font-family="&apos;Arial&apos;" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
 W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
@@ -745,8 +704,9 @@ N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
                    transform="matrix(1,0,0,1,804,102)" width="32"
                    xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
-                   font-weight="normal" height="12" x="0" y="0" font-size="3"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   font-weight="normal" height="12"
+                   font-family="&apos;Arial&apos;" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
 UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
 9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
@@ -758,50 +718,40 @@ wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
 x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
 jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
 I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle clip-path="url(#clipPath31)" fill="rgb(255,75,75)" r="4"
-                    cx="840" cy="78" stroke="none"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   stroke="rgb(255,75,75)" transform="matrix(1,0,0,1,831,69)"
-                   width="18" xlink:show="embed" xlink:type="simple"
-                   fill="rgb(255,75,75)" clip-path="url(#clipPath32)"
-                   preserveAspectRatio="none" font-weight="normal" height="18"
-                   x="0" y="0"
-                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABbElEQVR42mO8bWmz
-iYmVheXr+w8JepcvvGIgAVw1NJbk5ONb+fvnTwYmRmYmMS4BQU8+MdFVl3QNxEgx
-hEdYaCMnv4AtMwvLf+Z0YZGtzKzMduzcPFYsbKxmSTx826a/evGVGEPYuHhMf379
-cvDLu/dhzNNePP+Syi+4hVjD0A359Op1GChImEGSxBqGyxCQHDNMESHD8BkCAozE
-OJ2ZhZkZnyEoLsLlMiYmRmtWDo54Dh4+Y1yGYDUI2TCge52A0WvGys4h+f3jh2Of
-37wNwZXWmPBFM9BLf+AKWVh+41VLKIpBLvnz6+cbDl4+C3xJg5lQYIO88/f3r+WE
-kgYzMemEmHTGTExiIyadgQ0CZlZdPlGRVUBDTPBFMbphrGysFqkCgjtA4swgQwSl
-JBezcnIZ4jMEm2Fs3DyWIBrML9XU2gQ03ZgYQ7AaBgyKf3//WDHnyEj7//n16+6X
-t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <text xml:space="preserve" x="800" y="160"
-                  clip-path="url(#clipPath33)" stroke="none">Output</text><text xml:space="preserve"
-                  x="781" y="173" clip-path="url(#clipPath34)" stroke="none">configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,804,183)" width="32"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
-                   font-weight="normal" height="32" x="0" y="0"
+        </g>
+        <g stroke-linecap="butt" font-size="11" fill="rgb(255,75,75)"
+           text-rendering="optimizeLegibility" font-family="&apos;Arial&apos;"
+           stroke="rgb(255,75,75)" stroke-width="5">
+            <circle r="4" clip-path="url(#clipPath29)" cx="840" cy="78"
+                    stroke="none"/>
+            <text x="800" y="160" clip-path="url(#clipPath30)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Output</text><text x="781"
+                  y="173" clip-path="url(#clipPath31)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,804,183)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
 0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
 MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,812,191)" width="16"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
-                   font-weight="normal" height="16" x="0" y="0"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
 W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
 e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
 TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
 N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,804,222)" width="32"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
-                   font-weight="normal" height="12" x="0" y="0" font-size="3"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
 UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
 9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
@@ -813,34 +763,34 @@ wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
 x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
 jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
 I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle clip-path="url(#clipPath35)" fill="rgb(255,75,75)" r="4"
-                    cx="840" cy="198" stroke="none"/>
-            <text xml:space="preserve" x="926" y="113"
-                  clip-path="url(#clipPath36)" stroke="none">Core</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,924,123)" width="32"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
-                   font-weight="normal" height="32" x="0" y="0"
+            <circle r="4" clip-path="url(#clipPath32)" cx="840" cy="198"
+                    stroke="none"/>
+            <text x="926" y="113" clip-path="url(#clipPath33)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Core</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,924,123)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath26)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
 MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
 0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
 MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,932,131)" width="16"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath29)" preserveAspectRatio="none"
-                   font-weight="normal" height="16" x="0" y="0"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath27)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
 AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
 W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
 e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
 TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
 N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
-            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
                    transform="matrix(1,0,0,1,924,162)" width="32"
-                   xlink:show="embed" xlink:type="simple"
-                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
-                   font-weight="normal" height="12" x="0" y="0" font-size="3"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath28)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="3"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAAB5ElEQVR42sVUPVPb
 QBB9wpKsSMY28QibMTMUfPyY5A+YjoaUrjL5Ie5JTQkF6fxDwKYCD9gaW5YMsj5s
 K3uCuziRREWSN7Mzd7d7897t7a7U7XZPAHTINvFvMSNrb2SSLxaQogiI478pgHF2
@@ -853,25 +803,22 @@ yZqnPQvcV6DvMrfNzBiJOIqUnZSA/wUhINSN3Kp3fR9RvSEKLg/ct1wuYY2szBj2
 tP5uE1arhSivDbkgqnJW7bZtv9mGPr2yd32T2YbxWqbl14mUzIKQ2mb07StGbBBR
 UEwtl1WYjMhx3cTeQhCGCCYhJhM7dxqyL2i/ivgFIo4VJbcr3nMU/wTFM9tBmpCP
 WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle clip-path="url(#clipPath37)" fill="rgb(255,75,75)" r="4"
-                    cx="919" cy="128" stroke="none"/>
-            <circle clip-path="url(#clipPath38)" fill="rgb(255,75,75)" r="4"
-                    cx="919" cy="147" stroke="none"/>
-        </g>
-        <g fill="rgb(255,75,75)" text-rendering="optimizeLegibility"
-           font-size="11" stroke-linecap="butt" stroke="rgb(255,75,75)">
-            <line clip-path="url(#clipPath39)" fill="none" x1="845" x2="853"
-                  y1="78" y2="78"/>
-            <line clip-path="url(#clipPath39)" fill="none" x1="853" x2="906"
-                  y1="78" y2="128"/>
-            <line clip-path="url(#clipPath39)" fill="none" x1="906" x2="914"
-                  y1="128" y2="128"/>
-            <line clip-path="url(#clipPath39)" fill="none" x1="845" x2="853"
-                  y1="198" y2="198"/>
-            <line clip-path="url(#clipPath39)" fill="none" x1="853" x2="906"
-                  y1="198" y2="147"/>
-            <line clip-path="url(#clipPath39)" fill="none" x1="906" x2="914"
-                  y1="147" y2="147"/>
+            <circle r="4" clip-path="url(#clipPath34)" cx="919" cy="128"
+                    stroke="none"/>
+            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="147"
+                    stroke="none"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="845" x2="853"
+                  y1="78" y2="78" stroke-width="1"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="853" x2="906"
+                  y1="78" y2="128" stroke-width="1"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="906" x2="914"
+                  y1="128" y2="128" stroke-width="1"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="845" x2="853"
+                  y1="198" y2="198" stroke-width="1"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="853" x2="906"
+                  y1="198" y2="147" stroke-width="1"/>
+            <line clip-path="url(#clipPath36)" fill="none" x1="906" x2="914"
+                  y1="147" y2="147" stroke-width="1"/>
         </g>
     </g>
 </svg>

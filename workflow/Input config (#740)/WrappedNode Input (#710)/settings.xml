@@ -4,69 +4,69 @@
 <config key="flow_stack">
 <config key="Variable_0">
 <entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="WFVAR.input.sourcefile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/source.csv"/>
+</config>
+<config key="Variable_1">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="WFVAR.input.sinkfile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/sink.csv"/>
+</config>
+<config key="Variable_2">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="WFVAR.input.rulesfile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/rules.csv"/>
+</config>
+<config key="Variable_3">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="WFVAR.input.max-steps"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+<config key="Variable_4">
+<entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.cofsfile"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="//"/>
 </config>
-<config key="Variable_1">
+<config key="Variable_5">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.mwmax-cof"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Variable_2">
+<config key="Variable_6">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.std_mode"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="H added + Aromatized"/>
 </config>
-<config key="Variable_3">
+<config key="Variable_7">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.stereo_mode"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="Strip all stereo"/>
 </config>
-<config key="Variable_4">
+<config key="Variable_8">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.mwmax-source"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Variable_5">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="WFVAR.input.sourcefile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="source.csv"/>
-</config>
-<config key="Variable_6">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="WFVAR.input.sinkfile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="//"/>
-</config>
-<config key="Variable_7">
+<config key="Variable_9">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.dmax"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="1000"/>
 </config>
-<config key="Variable_8">
+<config key="Variable_10">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="WFVAR.input.dmin"/>
 <entry key="class" type="xstring" value="INTEGER"/>
 <entry key="value" type="xint" value="0"/>
-</config>
-<config key="Variable_9">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="WFVAR.input.rulesfile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="rules.csv"/>
-</config>
-<config key="Variable_10">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="WFVAR.input.max-steps"/>
-<entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="1"/>
 </config>
 <config key="Variable_11">
 <entry key="type" type="xstring" value="variable"/>
@@ -140,11 +140,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Core API"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.core"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.6.1.v201808311931"/>
+<entry key="node-bundle-version" type="xstring" value="3.6.2.v201811051556"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.1.v201809030900"/>
+<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051556"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="WrappedNode Input"/>
 <entry key="hasContent" type="xboolean" value="false"/>
