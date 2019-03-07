@@ -18,7 +18,7 @@
         "@id": "http://researchobject.org/",
         "name": "Research Object community"        
     },
-    "sdLicense": "https:////www.apache.org/licenses/LICENSE-2.0",
+    "sdLicense": "https://www.apache.org/licenses/LICENSE-2.0",
     "creator": [
         {
             "name": "Thomas Duigou",
