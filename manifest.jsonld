@@ -1,7 +1,7 @@
 {
     "@context": ["http://schema.org", "https://w3id.org/bundle/context"],
     "@type": ["ro:ResearchObject"],
-    
+    "conformsTo": "https://researchobject.github.io/ro-lite/0.1.0/",
     "@id": ".",
     "identifier": "72782bbecfeff6f3e43e2278ee3353adf4515207",
     "name": "RetroPath2.0 IBISBA workflow node",
