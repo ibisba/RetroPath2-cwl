@@ -1,0 +1,18 @@
+#!/usr/bin/env cwl-runner
+#
+cwl:tool: ../tools/RetroPath2.cwl
+
+input.sourcefile:
+  class: File
+  path: ../examples/carotene/source.csv
+input.rulesfile:
+  class: File
+  path: ../examples/carotene/rules.csv
+input.sinkfile:
+  class: File
+  path: ../examples/carotene/sink.csv
+
+input.reverse:
+  false
+input.max-steps:
+  5
