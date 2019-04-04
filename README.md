@@ -12,7 +12,13 @@ RetroPath2.0 builds a reaction network from a set of source compounds to a set o
 
 ## Quick start
 
-`TODO`
+If you have `cwl-runner` installed, you can run RetroPath2.0 on the [carotene](examples/carotene) example:
+
+```
+cwl-runner --no-match-user workflows/rp2-to-rp2path-job.yaml
+```
+
+The easiest way to get started with your own computations is to use [`rp2-to-rp2path-job.yaml`](workflows/rp2-to-rp2path-job.yaml) as a template for your own jobs.
 
 ## Contributing
 
