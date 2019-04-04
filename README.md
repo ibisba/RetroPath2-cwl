@@ -25,10 +25,10 @@ The easiest way to get started with your own computations is to use [`rp2-to-rp2
 To build the docker image yourself, use
 
 ```
-docker build -t ibisba/RetroPath2 .
+docker build -t ibisba/retropath2 .
 ```
 
-### How to cite RetroPath2?
+### How to cite RetroPath2.0?
 Please cite:
 
 Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering, 45: 158-170, 2018. DOI: https://doi.org/10.1016/j.ymben.2017.12.002
