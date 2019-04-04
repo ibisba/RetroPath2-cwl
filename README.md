@@ -6,6 +6,7 @@
 
 * Docker image: [ibisba/retropath2](https://hub.docker.com/r/ibisba/retropath2)
 * Base images: [ibsiba/knime-workflow-base](https://hub.docker.com/r/ibisba/knime-workflow-base/)
+* Source: [Dockerfile](https://github.com/ibisba/RetroPath2-cwl/blob/master/Dockerfile), [RetroPath2.0](https://www.myexperiment.org/workflows/4987.html)
 
 RetroPath2.0 builds a reaction network from a set of source compounds to a set of sink compounds.
 
