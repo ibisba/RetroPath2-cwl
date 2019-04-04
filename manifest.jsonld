@@ -25,19 +25,20 @@
             "email": "thomas.duigou@inra.fr"
         },
         {
-        "name": "Stefan Helfrich",
-        "url": "https://github.com/stelfrich"
+            "@id": "https://orcid.org/0000-0003-3549-8649",
+            "name": "Stefan Helfrich",
+            "email": "stefan.helfrich@knime.com"
         }
     ],
     "aggregates": [    
         {
             "@id": "workflow/workflow.knime",
             "@type": ["wfdesc:Workflow"],
-            "name": "RetroPath 2.0 Knime workflow",
+            "name": "RetroPath 2.0 KNIME workflow",
             "description": "KNIME implementation of RetroPath2.0 workflow",
             "creator": {
-                    "name": "Thomas Duigou",
-                    "email": "thomas.duigou@inra.fr"
+                "name": "Thomas Duigou",
+                "email": "thomas.duigou@inra.fr"
             }
         },  
         {
@@ -51,8 +52,9 @@
             "name": "RetroPath 2.0 CWL workflow",
             "description": "CWL wrapper that execute KNIME workflow using Docker image",
             "creator": {
+                "@id": "https://orcid.org/0000-0003-3549-8649",
                 "name": "Stefan Helfrich",
-                "url": "https://github.com/stelfrich"
+                "email": "stefan.helfrich@knime.com"
             }
         },  
         {
@@ -67,8 +69,9 @@
             "url": "https://hub.docker.com/r/ibisba/retropath2/",
             "description": "Docker image of KNIME workflow (including KNIME runtime)",
             "creator": {
+                "@id": "https://orcid.org/0000-0003-3549-8649",
                 "name": "Stefan Helfrich",
-                "url": "https://github.com/stelfrich"
+                "email": "stefan.helfrich@knime.com"
             }
         }
     ]
