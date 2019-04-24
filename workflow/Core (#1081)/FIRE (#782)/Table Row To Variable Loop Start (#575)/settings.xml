@@ -36,19 +36,19 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="RowID"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="Row0"/>
+<entry key="value" type="xstring" value="Row7"/>
 </config>
 <config key="Variable_7">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Diameter"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="12"/>
+<entry key="value" type="xint" value="16"/>
 </config>
 <config key="Variable_8">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="maxIterations"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="1"/>
+<entry key="value" type="xint" value="8"/>
 </config>
 <config key="Variable_9">
 <entry key="type" type="xstring" value="variable"/>
@@ -103,11 +103,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Table Row To Variable Loop Start"/>
 <entry key="hasContent" type="xboolean" value="false"/>

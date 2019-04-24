@@ -39,6 +39,7 @@
 </config>
 <entry key="virtual-out-ID" type="xint" value="1082"/>
 <config key="outports"/>
-<config key="layoutInfos"/>
 <entry key="layoutJSON" type="xstring" value=""/>
+<entry key="hideInWizard" type="xboolean" value="false"/>
+<entry key="customCSS" type="xstring" value=""/>
 </config>

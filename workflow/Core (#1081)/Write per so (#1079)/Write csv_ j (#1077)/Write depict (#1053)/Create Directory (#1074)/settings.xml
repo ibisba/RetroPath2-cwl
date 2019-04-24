@@ -6,7 +6,7 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="full_img_path"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="file:/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/res4/svg/"/>
+<entry key="value" type="xstring" value="file:/Users/tduigou/Desktop/rptest/RP2_res/svg/"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -45,7 +45,7 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME File Handling Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base.filehandling"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.6.2.v201811051631"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.0.v201811132201"/>
 <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>

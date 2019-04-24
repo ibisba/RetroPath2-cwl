@@ -4,21 +4,21 @@
 <config key="flow_stack">
 <config key="Variable_0">
 <entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="output.dir"/>
+<entry key="name" type="xstring" value="output.solutionfile"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="/Users/helfrich/Downloads/RetroPath2.0/tutorial_data/carotene/res4"/>
+<entry key="value" type="xstring" value="results.csv"/>
 </config>
 <config key="Variable_1">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="output.dir"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="."/>
+</config>
+<config key="Variable_2">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="output.sourceinsinkfile"/>
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="source-in-sink.csv"/>
-</config>
-<config key="Variable_2">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="output.solutionfile"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="results.csv"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -90,11 +90,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Core API"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.core"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="WrappedNode Input"/>
 <entry key="hasContent" type="xboolean" value="false"/>

@@ -18,55 +18,55 @@
                 <path d="M-1 -1 L662 -1 L662 942 L-1 942 L-1 -1 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2">
-                <path d="M-1 -1 L81 -1 L81 14 L-1 14 L-1 -1 Z"/>
+                <path d="M-1 -1 L88 -1 L88 14 L-1 14 L-1 -1 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3">
                 <path d="M-1 -1 L662 -1 L662 159 L-1 159 L-1 -1 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4">
-                <path d="M-1 144 L93 144 L93 159 L-1 159 L-1 144 Z"/>
+                <path d="M-1 144 L99 144 L99 159 L-1 159 L-1 144 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5">
                 <path d="M-1 144 L126 144 L126 184 L-1 184 L-1 144 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath6">
-                <path d="M108 169 L224 169 L224 184 L108 184 L108 169 Z"/>
+                <path d="M108 169 L234 169 L234 184 L108 184 L108 169 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath7">
                 <path d="M-1 169 L662 169 L662 221 L-1 221 L-1 169 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath8">
-                <path d="M108 206 L236 206 L236 221 L108 221 L108 206 Z"/>
+                <path d="M108 206 L245 206 L245 221 L108 221 L108 206 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
                 <path d="M-1 206 L662 206 L662 258 L-1 258 L-1 206 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
-                <path d="M99 243 L129 243 L129 258 L99 258 L99 243 Z"/>
+                <path d="M99 243 L132 243 L132 258 L99 258 L99 243 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
                 <path d="M-1 243 L662 243 L662 331 L-1 331 L-1 243 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
-                <path d="M-1 316 L127 316 L127 331 L-1 331 L-1 316 Z"/>
+                <path d="M-1 316 L135 316 L135 331 L-1 331 L-1 316 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath13">
                 <path d="M-1 316 L662 316 L662 379 L-1 379 L-1 316 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath14">
-                <path d="M-1 377 L179 377 L179 392 L-1 392 L-1 377 Z"/>
+                <path d="M-1 377 L191 377 L191 392 L-1 392 L-1 377 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath15">
                 <path d="M-1 377 L443 377 L443 441 L-1 441 L-1 377 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath16">
-                <path d="M-1 426 L56 426 L56 441 L-1 441 L-1 426 Z"/>
+                <path d="M-1 426 L59 426 L59 441 L-1 441 L-1 426 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath17">
-                <path d="M-1 426 L117 426 L117 466 L-1 466 L-1 426 Z"/>
+                <path d="M-1 426 L120 426 L120 466 L-1 466 L-1 426 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
-                <path d="M-1 451 L70 451 L70 466 L-1 466 L-1 451 Z"/>
+                <path d="M-1 451 L73 451 L73 466 L-1 466 L-1 451 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath19">
                 <path d="M-1 451 L662 451 L662 514 L-1 514 L-1 451 Z"/>
@@ -102,25 +102,28 @@
                 <path d="M829 73 L877 73 L877 84 L829 84 L829 73 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
-                <path d="M799 149 L841 149 L841 164 L799 164 L799 149 Z"/>
+                <path d="M-2 4 L46 4 L46 15 L-2 15 L-2 4 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
-                <path d="M780 162 L860 162 L860 177 L780 177 L780 162 Z"/>
+                <path d="M799 149 L841 149 L841 164 L799 164 L799 149 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32">
-                <path d="M828 193 L860 193 L860 204 L828 204 L828 193 Z"/>
+                <path d="M780 162 L860 162 L860 177 L780 177 L780 162 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
-                <path d="M925 102 L955 102 L955 117 L925 117 L925 102 Z"/>
+                <path d="M828 193 L860 193 L860 204 L828 204 L828 193 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34">
-                <path d="M914 123 L932 123 L932 134 L914 134 L914 123 Z"/>
+                <path d="M925 102 L955 102 L955 117 L925 117 L925 102 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath35">
-                <path d="M914 142 L932 142 L932 153 L914 153 L914 142 Z"/>
+                <path d="M914 123 L932 123 L932 134 L914 134 L914 123 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36">
-                <path d="M-1 -1 L1630 -1 L1630 2346 L-1 2346 L-1 -1 Z"/>
+                <path d="M914 142 L932 142 L932 153 L914 153 L914 142 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath37">
+                <path d="M-1 -1 L993 -1 L993 2346 L-1 2346 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g font-size="11" fill="white" stroke-linejoin="round" stroke="white"
@@ -153,18 +156,18 @@
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">1. Double click on the </text><text x="109"
                   y="181" clip-path="url(#clipPath6)" fill="black" stroke="none"
-                  font-weight="bold" xml:space="preserve">Input configuration</text><text x="209"
+                  font-weight="bold" xml:space="preserve">Input configuration</text><text x="217"
                   y="181" clip-path="url(#clipPath7)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for specification</text><text x="0"
+                  xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for</text><text x="0"
                   y="193" clip-path="url(#clipPath7)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">on input files and parameters (&quot;question mark&quot; button at the bottom of the Input configuration panel).</text><text x="0"
+                  xml:space="preserve">specification on input files and parameters (&quot;question mark&quot; button at the bottom of the Input configuration panel).</text><text x="0"
                   y="218" clip-path="url(#clipPath7)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">2. Double click on the </text><text x="109"
                   y="218" clip-path="url(#clipPath8)" fill="black" stroke="none"
-                  font-weight="bold" xml:space="preserve">Output configuration</text><text x="219"
+                  font-weight="bold" xml:space="preserve">Output configuration</text><text x="227"
                   y="218" clip-path="url(#clipPath9)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for dedicated</text><text x="0"
@@ -175,7 +178,7 @@
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">3. Right click on the </text><text x="100"
                   y="255" clip-path="url(#clipPath10)" fill="black"
-                  stroke="none" font-weight="bold" xml:space="preserve">Core</text><text x="125"
+                  stroke="none" font-weight="bold" xml:space="preserve">Core</text><text x="127"
                   y="255" clip-path="url(#clipPath11)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve"> node and select &quot;Execute&quot;. A green dot will appear under the Core node on successful execution.</text><text x="0"
@@ -189,20 +192,20 @@
                   stroke="none" font-weight="bold" xml:space="preserve">Usage specifications</text><text x="0"
                   y="340" clip-path="url(#clipPath13)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">- RetroPath2.0 current release is compatible starting from version 3.3.6 of Knime Analytics Platform. Check older RetroPath2.0 release</text><text x="0"
+                  xml:space="preserve">- RetroPath2.0 current release is compatible starting from version 3.6.1 of Knime Analytics Platform. Check older RetroPath2.0 release</text><text x="0"
                   y="352" clip-path="url(#clipPath13)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">for using it with older version of KNIME.</text><text x="0"
                   y="389" clip-path="url(#clipPath14)" fill="black"
-                  stroke="none" font-weight="bold" xml:space="preserve">Limitations as of 2018/07/30</text><text x="0"
+                  stroke="none" font-weight="bold" xml:space="preserve">Limitations as of 2018/10/09</text><text x="0"
                   y="401" clip-path="url(#clipPath15)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">- Scope is only relevant for retrosynthetic usage (target/source to chassis/sink).</text><text x="0"
                   y="438" clip-path="url(#clipPath16)" fill="black"
-                  stroke="none" font-weight="bold" xml:space="preserve">Release: </text><text x="48"
+                  stroke="none" font-weight="bold" xml:space="preserve">Release: </text><text x="51"
                   y="438" clip-path="url(#clipPath17)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">r20180730</text><text x="0" y="463"
+                  xml:space="preserve">r20181009</text><text x="0" y="463"
                   clip-path="url(#clipPath18)" fill="black" stroke="none"
                   font-weight="bold" xml:space="preserve">How to cite</text><text x="0"
                   y="475" clip-path="url(#clipPath19)" fill="black"
@@ -210,7 +213,7 @@
                   xml:space="preserve">Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering</text><text x="0"
                   y="487" clip-path="url(#clipPath19)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">(2017). DOI: https://doi.org/10.1016/j.ymben.2017.12.002</text><text x="0"
+                  xml:space="preserve">(2018). DOI: https://doi.org/10.1016/j.ymben.2017.12.002</text><text x="0"
                   y="511" clip-path="url(#clipPath19)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Please report bugs to thomas.duigou@inra.fr</text>
@@ -390,9 +393,23 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
            stroke="rgb(255,75,75)" stroke-width="5">
             <circle r="4" clip-path="url(#clipPath29)" cx="840" cy="78"
                     stroke="none"/>
-            <text x="800" y="160" clip-path="url(#clipPath30)" fill="black"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   transform="matrix(1,0,0,1,831,69)" width="18"
+                   xlink:show="embed" xlink:type="simple"
+                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
+                   height="18" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABbElEQVR42mO8bWmz
+iYmVheXr+w8JepcvvGIgAVw1NJbk5ONb+fvnTwYmRmYmMS4BQU8+MdFVl3QNxEgx
+hEdYaCMnv4AtMwvLf+Z0YZGtzKzMduzcPFYsbKxmSTx826a/evGVGEPYuHhMf379
+cvDLu/dhzNNePP+Syi+4hVjD0A359Op1GChImEGSxBqGyxCQHDNMESHD8BkCAozE
+OJ2ZhZkZnyEoLsLlMiYmRmtWDo54Dh4+Y1yGYDUI2TCge52A0WvGys4h+f3jh2Of
+37wNwZXWmPBFM9BLf+AKWVh+41VLKIpBLvnz6+cbDl4+C3xJg5lQYIO88/f3r+WE
+kgYzMemEmHTGTExiIyadgQ0CZlZdPlGRVUBDTPBFMbphrGysFqkCgjtA4swgQwSl
+JBezcnIZ4jMEm2Fs3DyWIBrML9XU2gQ03ZgYQ7AaBgyKf3//WDHnyEj7//n16+6X
+t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <text x="800" y="160" clip-path="url(#clipPath31)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Output</text><text x="781"
-                  y="173" clip-path="url(#clipPath31)" fill="black"
+                  y="173" clip-path="url(#clipPath32)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,804,183)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
@@ -429,9 +446,9 @@ wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
 x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
 jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
 I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath32)" cx="840" cy="198"
+            <circle r="4" clip-path="url(#clipPath33)" cx="840" cy="198"
                     stroke="none"/>
-            <text x="926" y="113" clip-path="url(#clipPath33)" fill="black"
+            <text x="926" y="113" clip-path="url(#clipPath34)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Core</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,924,123)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
@@ -469,9 +486,9 @@ yZqnPQvcV6DvMrfNzBiJOIqUnZSA/wUhINSN3Kp3fR9RvSEKLg/ct1wuYY2szBj2
 tP5uE1arhSivDbkgqnJW7bZtv9mGPr2yd32T2YbxWqbl14mUzIKQ2mb07StGbBBR
 UEwtl1WYjMhx3cTeQhCGCCYhJhM7dxqyL2i/ivgFIo4VJbcr3nMU/wTFM9tBmpCP
 WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath34)" cx="919" cy="128"
+            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="128"
                     stroke="none"/>
-            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="147"
+            <circle r="4" clip-path="url(#clipPath36)" cx="919" cy="147"
                     stroke="none"/>
             <rect x="0" y="0" clip-path="url(#clipPath1)" fill="white"
                   width="661" height="941" stroke="none"/>
@@ -501,17 +518,17 @@ WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   y="181" clip-path="url(#clipPath5)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">1. Double click on the </text><text xml:space="preserve"
-                  x="109" y="181" clip-path="url(#clipPath6)" stroke="none">Input configuration</text><text x="209"
+                  x="109" y="181" clip-path="url(#clipPath6)" stroke="none">Input configuration</text><text x="217"
                   y="181" clip-path="url(#clipPath7)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for specification</text><text x="0"
+                  font-weight="normal" xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for</text><text x="0"
                   y="193" clip-path="url(#clipPath7)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">on input files and parameters (&quot;question mark&quot; button at the bottom of the Input configuration panel).</text><text x="0"
+                  font-weight="normal" xml:space="preserve">specification on input files and parameters (&quot;question mark&quot; button at the bottom of the Input configuration panel).</text><text x="0"
                   y="218" clip-path="url(#clipPath7)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">2. Double click on the </text><text xml:space="preserve"
-                  x="109" y="218" clip-path="url(#clipPath8)" stroke="none">Output configuration</text><text x="219"
+                  x="109" y="218" clip-path="url(#clipPath8)" stroke="none">Output configuration</text><text x="227"
                   y="218" clip-path="url(#clipPath9)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve"> node and set appropriate values. Please refer to the embedded help panel for dedicated</text><text x="0"
@@ -521,7 +538,7 @@ WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   y="255" clip-path="url(#clipPath9)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">3. Right click on the </text><text xml:space="preserve"
-                  x="100" y="255" clip-path="url(#clipPath10)" stroke="none">Core</text><text x="125"
+                  x="100" y="255" clip-path="url(#clipPath10)" stroke="none">Core</text><text x="127"
                   y="255" clip-path="url(#clipPath11)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve"> node and select &quot;Execute&quot;. A green dot will appear under the Core node on successful execution.</text><text x="0"
@@ -534,25 +551,25 @@ WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   x="0" y="328" clip-path="url(#clipPath12)" stroke="none">Usage specifications</text><text x="0"
                   y="340" clip-path="url(#clipPath13)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">- RetroPath2.0 current release is compatible starting from version 3.3.6 of Knime Analytics Platform. Check older RetroPath2.0 release</text><text x="0"
+                  font-weight="normal" xml:space="preserve">- RetroPath2.0 current release is compatible starting from version 3.6.1 of Knime Analytics Platform. Check older RetroPath2.0 release</text><text x="0"
                   y="352" clip-path="url(#clipPath13)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">for using it with older version of KNIME.</text><text xml:space="preserve"
-                  x="0" y="389" clip-path="url(#clipPath14)" stroke="none">Limitations as of 2018/07/30</text><text x="0"
+                  x="0" y="389" clip-path="url(#clipPath14)" stroke="none">Limitations as of 2018/10/09</text><text x="0"
                   y="401" clip-path="url(#clipPath15)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">- Scope is only relevant for retrosynthetic usage (target/source to chassis/sink).</text><text xml:space="preserve"
-                  x="0" y="438" clip-path="url(#clipPath16)" stroke="none">Release: </text><text x="48"
+                  x="0" y="438" clip-path="url(#clipPath16)" stroke="none">Release: </text><text x="51"
                   y="438" clip-path="url(#clipPath17)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">r20180730</text><text xml:space="preserve"
+                  font-weight="normal" xml:space="preserve">r20181009</text><text xml:space="preserve"
                   x="0" y="463" clip-path="url(#clipPath18)" stroke="none">How to cite</text><text x="0"
                   y="475" clip-path="url(#clipPath19)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering</text><text x="0"
                   y="487" clip-path="url(#clipPath19)"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">(2017). DOI: https://doi.org/10.1016/j.ymben.2017.12.002</text><text x="0"
+                  font-weight="normal" xml:space="preserve">(2018). DOI: https://doi.org/10.1016/j.ymben.2017.12.002</text><text x="0"
                   y="511" clip-path="url(#clipPath19)"
                   font-family="&apos;Arial&apos;" stroke="none"
                   font-weight="normal" xml:space="preserve">Please report bugs to thomas.duigou@inra.fr</text><text x="0"
@@ -724,9 +741,23 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
            stroke="rgb(255,75,75)" stroke-width="5">
             <circle r="4" clip-path="url(#clipPath29)" cx="840" cy="78"
                     stroke="none"/>
-            <text x="800" y="160" clip-path="url(#clipPath30)" fill="black"
+            <image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   transform="matrix(1,0,0,1,831,69)" width="18"
+                   xlink:show="embed" xlink:type="simple"
+                   clip-path="url(#clipPath30)" preserveAspectRatio="none"
+                   height="18" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABbElEQVR42mO8bWmz
+iYmVheXr+w8JepcvvGIgAVw1NJbk5ONb+fvnTwYmRmYmMS4BQU8+MdFVl3QNxEgx
+hEdYaCMnv4AtMwvLf+Z0YZGtzKzMduzcPFYsbKxmSTx826a/evGVGEPYuHhMf379
+cvDLu/dhzNNePP+Syi+4hVjD0A359Op1GChImEGSxBqGyxCQHDNMESHD8BkCAozE
+OJ2ZhZkZnyEoLsLlMiYmRmtWDo54Dh4+Y1yGYDUI2TCge52A0WvGys4h+f3jh2Of
+37wNwZXWmPBFM9BLf+AKWVh+41VLKIpBLvnz6+cbDl4+C3xJg5lQYIO88/f3r+WE
+kgYzMemEmHTGTExiIyadgQ0CZlZdPlGRVUBDTPBFMbphrGysFqkCgjtA4swgQwSl
+JBezcnIZ4jMEm2Fs3DyWIBrML9XU2gQ03ZgYQ7AaBgyKf3//WDHnyEj7//n16+6X
+t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <text x="800" y="160" clip-path="url(#clipPath31)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Output</text><text x="781"
-                  y="173" clip-path="url(#clipPath31)" fill="black"
+                  y="173" clip-path="url(#clipPath32)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">configuration</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,804,183)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
@@ -763,9 +794,9 @@ wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
 x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
 jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
 I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath32)" cx="840" cy="198"
+            <circle r="4" clip-path="url(#clipPath33)" cx="840" cy="198"
                     stroke="none"/>
-            <text x="926" y="113" clip-path="url(#clipPath33)" fill="black"
+            <text x="926" y="113" clip-path="url(#clipPath34)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Core</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
                    stroke="black" transform="matrix(1,0,0,1,924,123)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
@@ -803,21 +834,21 @@ yZqnPQvcV6DvMrfNzBiJOIqUnZSA/wUhINSN3Kp3fR9RvSEKLg/ct1wuYY2szBj2
 tP5uE1arhSivDbkgqnJW7bZtv9mGPr2yd32T2YbxWqbl14mUzIKQ2mb07StGbBBR
 UEwtl1WYjMhx3cTeQhCGCCYhJhM7dxqyL2i/ivgFIo4VJbcr3nMU/wTFM9tBmpCP
 WQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath34)" cx="919" cy="128"
+            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="128"
                     stroke="none"/>
-            <circle r="4" clip-path="url(#clipPath35)" cx="919" cy="147"
+            <circle r="4" clip-path="url(#clipPath36)" cx="919" cy="147"
                     stroke="none"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="845" x2="853"
+            <line clip-path="url(#clipPath37)" fill="none" x1="845" x2="853"
                   y1="78" y2="78" stroke-width="1"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="853" x2="906"
+            <line clip-path="url(#clipPath37)" fill="none" x1="853" x2="906"
                   y1="78" y2="128" stroke-width="1"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="906" x2="914"
+            <line clip-path="url(#clipPath37)" fill="none" x1="906" x2="914"
                   y1="128" y2="128" stroke-width="1"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="845" x2="853"
+            <line clip-path="url(#clipPath37)" fill="none" x1="845" x2="853"
                   y1="198" y2="198" stroke-width="1"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="853" x2="906"
+            <line clip-path="url(#clipPath37)" fill="none" x1="853" x2="906"
                   y1="198" y2="147" stroke-width="1"/>
-            <line clip-path="url(#clipPath36)" fill="none" x1="906" x2="914"
+            <line clip-path="url(#clipPath37)" fill="none" x1="906" x2="914"
                   y1="147" y2="147" stroke-width="1"/>
         </g>
     </g>

@@ -18,7 +18,7 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Number Rows"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="8"/>
+<entry key="value" type="xint" value="152"/>
 </config>
 <config key="Variable_3">
 <entry key="type" type="xstring" value="variable"/>
@@ -52,11 +52,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.6.2.v201811051556"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Extract Table Dimension"/>
 <entry key="hasContent" type="xboolean" value="false"/>
