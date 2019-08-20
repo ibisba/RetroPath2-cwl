@@ -29,7 +29,6 @@ docker build -t ibisba/retropath2 .
 ```
 
 ### How to cite RetroPath2.0?
-Please cite:
 
 Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering, 45: 158-170, 2018. DOI: https://doi.org/10.1016/j.ymben.2017.12.002
 
