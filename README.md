@@ -37,4 +37,4 @@ Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis wo
 Different licenses apply to files added by different Docker layers:
 
 * ibisba/RetroPath2-cwl [Dockerfile](https://github.com/ibisba/RetroPath2-cwl/blob/master/Dockerfile): [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* RetroPath2.0 (`/payload/workflow` in the image): [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+* RetroPath2.0 (`/payload/workflow` in the image): [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
