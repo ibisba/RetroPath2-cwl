@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><KNIMEMetaInfo nrOfElements="3">
-<element form="text" read-only="false" name="Author">T. Duigou, B. Delépine &amp; J.-L. Faulon</element>
-<element form="date" name="Creation Date" read-only="false">9/1/2017</element>
-<element form="multiline" name="Comments" read-only="false">release: r20181009</element>
-</KNIMEMetaInfo>
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+<met:element form="text" read-only="false" name="Author">T. Duigou, B. Delépine &amp; J.-L. Faulon</met:element>
+<met:element form="date" read-only="false" name="Creation Date">9/1/2017/12:00:01 +02:00</met:element>
+<met:element form="multiline" read-only="false" name="Comments">RetroPath2.0
+
+The RetroPath2.0 workflow build a reaction network from a set of source compounds to a set of sink compounds.
+
+When applied in a retrosynthetic fashion, the source is composed of the target compounds and the sink is composed of the available reactants (for instance in the context of metabolic engineering the sink is the set of native metabolites of a chassis strain). From amongst all the chemical reactions generated using RetroPath2.0 (in the retrosynthetic way), only a subset may effectively link a source to a subset of sink compounds. This sub-network is considered as a scope and is output in dedicated files (see below).
+
+The workflow handles both monomolecular (1 substrate) and bimolecular (2 substrates) reactions.
+
+release: r20181009
+
+PUBLICATION: Delépine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering (2018) https://doi.org/10.1016/j.ymben.2017.12.002</met:element>
+</met:KNIMEMetaInfo>

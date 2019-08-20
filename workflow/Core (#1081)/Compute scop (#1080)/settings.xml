@@ -22,6 +22,10 @@
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Status: Error: Compute scope 0:1081:0:1080%%00010  Status: Error: Compute overall scope 0:1081:0:1080:0:1055%%00010    Status: Error: Compute overall reachability 0:1081:0:1080:0:1055:72%%00010      Status: Error: Node &quot;Empty Table Creator&quot; not available from extension &quot;KNIME Data Generation&quot; (provided by &quot;KNIME AG, Zurich, Switzerland&quot;; plugin &quot;org.knime.datageneration&quot; is not installed)%%00010  Status: Error: Get transformations fireable from source 0:1081:0:1080:0:1054%%00010    Status: Error: Remove leaves not in Sink 0:1081:0:1080:0:1054:1033%%00010      Status: Error: Node &quot;Empty Table Creator&quot; not available from extension &quot;KNIME Data Generation&quot; (provided by &quot;KNIME AG, Zurich, Switzerland&quot;; plugin &quot;org.knime.datageneration&quot; is not installed)"/>
+</config>
 <entry key="virtual-in-ID" type="xint" value="1060"/>
 <config key="inports">
 <config key="inport_0">

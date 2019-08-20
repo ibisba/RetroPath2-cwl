@@ -69,16 +69,12 @@
 <entry key="node-feature-vendor" type="xstring" value="NIBR"/>
 <entry key="node-feature-version" type="xstring" value="3.4.0.v201807311105"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="RDKit Molecule Substructure Filter"/>
+<entry key="name" type="xstring" value="MISSING RDKit Molecule Substructure Filter"/>
 <entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
-</config>
-<config key="port_2">
-<entry key="index" type="xint" value="2"/>
 <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>

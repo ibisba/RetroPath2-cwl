@@ -59,7 +59,7 @@
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
 <entry key="node-feature-version" type="xstring" value="3.7.0.v201808081048"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="Empty Table Creator"/>
+<entry key="name" type="xstring" value="MISSING Empty Table Creator"/>
 <entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">

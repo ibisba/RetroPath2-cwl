@@ -49,17 +49,17 @@
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.database.connectors.sqlite.SQLiteConnectorNodeFactory"/>
-<entry key="node-name" type="xstring" value="SQLite Connector"/>
+<entry key="node-name" type="xstring" value="SQLite Connector (legacy)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME connectors to common databases"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.database.connectors"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.7.0.v201808081048"/>
+<entry key="node-bundle-version" type="xstring" value="4.0.0.v201906190739"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Connectors for Common Databases"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.dbdrivers.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.7.0.v201808081048"/>
+<entry key="node-feature-version" type="xstring" value="4.0.0.v201906190739"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="SQLite Connector"/>
+<entry key="name" type="xstring" value="SQLite Connector (legacy)"/>
 <entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">

@@ -22,6 +22,10 @@
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Status: Error: UPDATE SOURCE &amp; SINK 0:1081:0:935%%00010  Status: Error: Mass Filter 0:1081:0:935:0:920%%00010    Status: Error: Node &quot;RDKit Descriptor Calculation&quot; not available from extension &quot;RDKit KNIME integration&quot; (provided by &quot;NIBR&quot;; plugin &quot;org.rdkit.knime.nodes&quot; is not installed)"/>
+</config>
 <entry key="virtual-in-ID" type="xint" value="943"/>
 <config key="inports">
 <config key="inport_0">

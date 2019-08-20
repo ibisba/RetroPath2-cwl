@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-<entry key="created_by" type="xstring" value="3.7.2.v201904170949"/>
+<entry key="created_by" type="xstring" value="4.0.0.v201906260931"/>
 <entry key="created_by_nightly" type="xboolean" value="false"/>
-<entry key="version" type="xstring" value="3.7.0"/>
+<entry key="version" type="xstring" value="3.8.0"/>
 <entry key="name" type="xstring" value="Cast to RDKit object"/>
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="&lt;unknown&gt;"/>
@@ -113,14 +113,14 @@
 <config key="port_enum">
 <config key="outport_0">
 <entry key="index" type="xint" value="0"/>
-<entry key="name" type="xstring" value="Connected to: Output data"/>
+<entry key="name" type="xstring" value="Connected to: Port 0"/>
 <config key="type">
 <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
 </config>
 </config>
 <config key="outport_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="name" type="xstring" value="Connected to: Erroneous input data"/>
+<entry key="name" type="xstring" value="Connected to: Port 1"/>
 <config key="type">
 <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
 </config>
