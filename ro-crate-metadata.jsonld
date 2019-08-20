@@ -68,6 +68,29 @@
             "@type": ["ex:ContainerSomething"],
             "url": "https://hub.docker.com/r/ibisba/retropath2/",
             "description": "Docker image of KNIME workflow (including KNIME runtime)",
+            "license": "https://www.apache.org/licenses/LICENSE-2.0",
+            "creator": {
+                "@id": "https://orcid.org/0000-0003-3549-8649",
+                "name": "Stefan Helfrich",
+                "email": "stefan.helfrich@knime.com"
+            }
+        },
+        {
+            "@id": "examples/carotene",
+            "@type": ["roterms:ExampleRun"],
+            "name": "Example files",
+            "description": "Carotene example files",
+            "creator": {
+                "name": "Thomas Duigou",
+                "email": "thomas.duigou@inra.fr"
+            }
+        },
+        {
+            "@id": "workflows/RetroPath2-carotene-job.yaml",
+            "@type": ["roterms:ExampleRun"],
+            "name": "Example job",
+            "description": "Example job that uses the carotene example",
+            "license": "https://www.apache.org/licenses/LICENSE-2.0",
             "creator": {
                 "@id": "https://orcid.org/0000-0003-3549-8649",
                 "name": "Stefan Helfrich",
