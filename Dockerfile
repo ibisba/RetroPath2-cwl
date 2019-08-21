@@ -1,1 +1,1 @@
-FROM ibisba/knime-workflow-base:latest
+FROM ibisba/knime-workflow-base:4.0.1
